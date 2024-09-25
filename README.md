@@ -64,7 +64,6 @@ To run DermAI on your local machine, follow these steps:
 - **Multi-Language Support:** Expanding the app's accessibility by supporting multiple languages.
 - **Offline Capabilities:** Implementing offline functionality to allow users to get diagnoses without an internet connection.
 
-
 ## Acknowledgments
 
 - **DermNet:** For providing the dataset used in training the model.
